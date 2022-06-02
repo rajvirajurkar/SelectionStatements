@@ -32,7 +32,7 @@ namespace FavoriteNumber
 
             string subject = Console.ReadLine();
 
-            switch(subject.ToLower())
+            switch (subject.ToLower())
             {
                 case "math":
                     Console.WriteLine("I too love math! ");
@@ -40,7 +40,7 @@ namespace FavoriteNumber
                 case "science":
                     Console.WriteLine("I hate science! ");
                     break;
-                case "pe":
+                case "geometery":
                     Console.WriteLine("It's awesome! ");
                     break;
                 case "history":
